@@ -1,0 +1,7 @@
+bin/
+include/
+lib/
+*.zip
+pip-selfcheck.json
+.Python
+config.yml
